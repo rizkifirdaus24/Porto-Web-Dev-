@@ -18,4 +18,3 @@ Ini adalah prototipe front-end statis untuk panel admin "Warnet Galaxy". Proyek 
 * **Bootstrap 5** (Untuk layout, form, dan komponen UI)
 * **Bootstrap Icons**
 
-## 📂 Struktur File
